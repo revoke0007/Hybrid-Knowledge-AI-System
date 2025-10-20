@@ -51,11 +51,11 @@ venv\Scripts\activate       # For Windows
 3. **Install Dependencies**
 
 ```bash
-pip install -r requirements.txt
+pip install openai pinecone-client tqdm neo4j networkx pyvis
 ```
 
 4. **Setup Configuration**
-    - Copy `config_example.py` to `config.py`
+    - Copy `config.py`
     - Fill in your credentials:
 
 ```python
@@ -173,7 +173,8 @@ These are culturally significant and close to city center.
 ├── visualize_graph.py
 ├── hybrid_chat.py
 ├── vietnam_travel_dataset.json
-├── improvement.py
+├── improvement.md
+├── project_explaination.md
 └── README.md
 ```
 
@@ -203,18 +204,12 @@ If you'd like to improve this project, fork the repo and submit your enhancement
 
 ***
 
-## 📜 License
-
-Distributed under the MIT License.
-See `LICENSE` file for details.
-
-***
 
 ## 👨‍💻 Author
 
 Created by **[Hardeep Rohilla]**
 
-- GitHub: [@revoke0007](https://github.com/yourusername)
+- GitHub: [@revoke0007](https://github.com/revoke0007)
 - Email: hardeeprohilla65@gmail.com
 
 ***
