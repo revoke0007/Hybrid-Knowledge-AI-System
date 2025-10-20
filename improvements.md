@@ -1,5 +1,3 @@
-
-
 # Improvements Summary for Hybrid Knowledge AI System
 
 ### 1. Embedding Cache
