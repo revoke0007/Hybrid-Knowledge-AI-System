@@ -1,4 +1,3 @@
-
 # Hybrid Knowledge AI System
 
 A hybrid retrieval and reasoning pipeline that combines **vector similarity search (Pinecone)**, **graph-based reasoning (Neo4j)**, and **OpenAI GPT** to provide **context-aware, intelligent answers** about travel destinations.
