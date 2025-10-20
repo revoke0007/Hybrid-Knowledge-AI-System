@@ -75,9 +75,9 @@ NEO4J_PASSWORD = "password"
 
 ```bash
 python load_to_neo4j.py
-<img width="714" height="712" alt="Screenshot 2025-10-19 232154" src="https://github.com/user-attachments/assets/522ce8f9-b7c9-4230-829b-1f8d7e9899ef" />
+<img width="714" height="712" alt="Load graph data ss" src="https://github.com/user-attachments/assets/522ce8f9-b7c9-4230-829b-1f8d7e9899ef" />
 
-<img width="1043" height="716" alt="Screenshot 2025-10-19 232215" src="https://github.com/user-attachments/assets/128f7d87-415a-44ed-a665-091db9dfb4de" />
+<img width="1043" height="716" alt="Load graph data ss" src="https://github.com/user-attachments/assets/128f7d87-415a-44ed-a665-091db9dfb4de" />
 
 ```
 
@@ -93,7 +93,7 @@ python visualize_graph.py
 ```bash
 python pinecone_upload.py
 
-<img width="824" height="542" alt="Screenshot 2025-10-19 232420" src="https://github.com/user-attachments/assets/25e12c57-8d73-49d2-b524-fc2fabb311c9" />
+<img width="824" height="542" alt="upload complete vector to pinecone" src="https://github.com/user-attachments/assets/25e12c57-8d73-49d2-b524-fc2fabb311c9" />
 
 ```
 
@@ -108,7 +108,7 @@ Start your chatbot:
 ```bash
 python hybrid_chat.py
 
-<img width="1268" height="714" alt="Screenshot 2025-10-19 231432" src="https://github.com/user-attachments/assets/c832d123-7dc6-47b7-b000-9f386b0df78a" />
+<img width="1268" height="714" alt="final output/answer" src="https://github.com/user-attachments/assets/c832d123-7dc6-47b7-b000-9f386b0df78a" />
 
 ```
 
