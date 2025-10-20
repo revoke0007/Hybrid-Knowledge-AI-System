@@ -57,6 +57,3 @@
 These improvements result in a more efficient, stable, and user-friendly hybrid AI system that leverages vector search and graph context for better travel recommendations and interactions.
 
 ***
-
-If you need, I can also help generate a `.gitignore` file or update your README to mention these improvements for project documentation.
-
