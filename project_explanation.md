@@ -188,22 +188,3 @@ The **Hybrid Knowledge AI System** merges graph intelligence with semantic compu
 
 ***
 
-Would you like me to include diagrams (Mermaid flowcharts for architecture and data flow) inside `project_explanation.md` for your GitHub version?
-<span style="display:none">[^1][^2][^3][^4][^5][^6][^7]</span>
-
-<div align="center">⁂</div>
-
-[^1]: https://www.leewayhertz.com/hybrid-ai/
-
-[^2]: https://blog.gyde.ai/knowledge-base/
-
-[^3]: https://www.plattform-lernende-systeme.de/files/Downloads/Publikationen_EN/KI_Kompakt_EN/PLS_AI_ataglance_Hybrid_AI.pdf
-
-[^4]: https://community.sap.com/t5/artificial-intelligence-forum/cracking-the-knowledge-code-hybrid-ai-for-matching-information-systems-and/m-p/13711568
-
-[^5]: https://resoinsights.com/insight/integrating-ai-and-human-intelligence-for-scalable-impact/
-
-[^6]: https://arxiv.org/pdf/2105.03354.pdf
-
-[^7]: https://dev.to/steve_anderson_78f04b8460/how-to-create-a-hybrid-ai-solution-40kp
-
